@@ -11,7 +11,7 @@ Mentors
 
 Dr. Amy Ogan - Assistant Professor, Human-Computer Interaction Institute, Carnegie Mellon University
 
-Dr. Erin Walker - Assistant Professor, Ira A. Fulton School of Engineering, Arizona State University
+Dr. Erin Walker - Assistant Professor, School of Computing, Informatics, and Decision Systems Engineering, Arizona State University
 
 Erik Harpstead - Ph.D. Student in Human-Computer Interaction, Carnegie Mellon University
 
