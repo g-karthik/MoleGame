@@ -1,0 +1,17 @@
+Initialize engine version: 4.3.1f1 (cebd4d9b5122)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.29]
+    Renderer: ATI Mobility Radeon HD 5470 
+    Vendor:   ATI
+    VRAM:     1014 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Dell\Documents\Get 'em Moles!\getemmoles-PC_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Dell\Documents\Get 'em Moles!\getemmoles-PC_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Dell\Documents\Get 'em Moles!\getemmoles-PC_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Dell\Documents\Get 'em Moles!\getemmoles-PC_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.076 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
