@@ -84,7 +84,7 @@ function  Start () {
 
 function Update () {
 
-	if(Time.time-startTime>1&&Time.time-startTime<2&&!isPressed){
+	if(Time.time-startTime > 3 &&Time.time-startTime < 6 &&!isPressed){
 		//Hints
 		posScore=posScore*3/4;
 		getScript(correctLetter).PlayBomb();
@@ -94,7 +94,7 @@ function Update () {
 	 		Hints.Add(temp);
 		}
 	}
-	else if(Time.time-startTime>=2){//&&notPressedYet==true){
+	else if(Time.time-startTime>=6){//&&notPressedYet==true){
 	//Blast
 		posScore*=2/3;
 		for(var i =0;i<Hints.Count;i++){
@@ -237,6 +237,6 @@ function OnGUI(){
 		s+=word.ToString()[i].ToString();
 	}
 	if (s==null)s="";
-	GUI.Label (Rect (200, 20, 500, 200),s,style);
+	GUI.Label (Rect(200, 20, 500, 200),s,style);
 	GUI.Label(Rect(270,Screen.height-75,200,200),""+score,style);
 }

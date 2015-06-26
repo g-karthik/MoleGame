@@ -8,5 +8,5 @@ function Update () {
 
 }
 function OnMouseDown(){
-	Application.LoadLevel("Instructions");
+	//Application.LoadLevel("Instructions");
 }

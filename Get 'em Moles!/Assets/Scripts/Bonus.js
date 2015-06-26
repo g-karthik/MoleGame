@@ -35,6 +35,7 @@ function DoIt(){
 	}while(4!=5);
 
 }
+
 function OnMouseDown(){
 	if(renderer.enabled==false){
 		renderer.enabled=true;

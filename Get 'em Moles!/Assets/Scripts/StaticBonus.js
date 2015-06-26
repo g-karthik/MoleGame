@@ -6,6 +6,7 @@ var ti:int;
 var ti2:int;
 function Start () {
 	ti=Time.time;
+	ti2=Time.time;
 }
 
 function Update () {
